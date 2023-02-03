@@ -12,28 +12,28 @@ The data that I used for dashboard is available on Kaggle :
 - VIN (1-10)
 Vehicle Identification Number of the vehicle mentioned in the dataset.
 
-- County
+- County :
 Name of the County from where the data is gathered.
 
-- City
+- City : 
 Name of the Cities from where the data is gathered.
 
-- State
+- State :
 Name of the State from where the data is gathered.
 
-- Postal Code
+- Postal Code :
 The postal code from where the data is gathered.
 
-- Model Year
+- Model Year :
 Manufacturing year of the model mentioned in the data set.
 
-- Make
+- Make :
 Manufacturer of the vehicle.
 
-- Model
+- Model :
 Model Name of the mentioned vehicle.
 
-- Electric Vehicle Type
+- Electric Vehicle Type :
 Type of the vehicle present in the dataset.
 
 
